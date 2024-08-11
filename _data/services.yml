@@ -1,5 +1,5 @@
-- name: "E-Commerce"
-  icon: "shopping-cart"
+- name: "Python"
+  icon: "fab fa-python"
   description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
 
 - name: "Responsive Design"
@@ -9,3 +9,4 @@
 - name: "Web Security"
   icon: "lock"
   description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+
