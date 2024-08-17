@@ -1,27 +1,55 @@
-- name: "Our Humble Beginnings"
+- name: "Senior Data Scientist"
   image: "1.jpg"
   img-alt: "image description"
-  year: "2009-2011"
-  text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+  year: "August 2024 - Current"
+  text: ""
   side: left
 
-- name: "An Agency is Born"
+- name: "Data Scientist"
   image: "2.jpg"
   img-alt: "image description"
-  year: "March 2011"
+  year: "August 2021 - August 2024"
   text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
   side: right
 
-- name: "Transition to Full Service"
+- name: "Risk Analyst Intern"
   image: "3.jpg"
   img-alt: "image description"
-  year: "December 2012"
+  year: "May 2020 - June 2020"
   text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
   side: left
 
-- name: "Phase Two Expansion"
+- name: "Master of Statistics"
   image: "4.jpg"
   img-alt: "image description"
-  year: "July 2014"
+  year: "August 2019 - July 2021"
+  text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+  side: right
+
+- name: "Master of Statistics"
+  image: "4.jpg"
+  img-alt: "image description"
+  year: "August 2019 - July 2021"
+  text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+  side: left
+
+- name: "Data Science Intern"
+  image: "4.jpg"
+  img-alt: "image description"
+  year: "May 2019 - June 2021"
+  text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+  side: right
+
+- name: "Subject Matter Expert"
+  image: "4.jpg"
+  img-alt: "image description"
+  year: "May 2018 - May 2020"
+  text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+  side: left
+
+- name: "Bachelor of Statistics"
+  image: "4.jpg"
+  img-alt: "image description"
+  year: "July 2016 - May 2019"
   text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
   side: right
