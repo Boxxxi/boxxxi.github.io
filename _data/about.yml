@@ -9,47 +9,48 @@
   image: "2.jpg"
   img-alt: "image description"
   year: "August 2021 - August 2024"
-  text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+  text: "Led the revamp of the DeviceConnect codebase, resulting in latency reduction and reduction in maintenance costs.
+          Developed and integrated new features for credit default modelling, including bnpl, upi, tax, investment, spend pattern and other feature cohorts.
+          Constructed alternative data based credit scoring models on consumer and cash loan default data. 
+          Proposed and assisted in developing an API solution for generation of scores that reduced deployment time by two-thirds.
+          Devised a new collections recommendation logic, improving client collection rates. 
+          Managed and automated workflows using Risk-Airflow, reducing product runtime.
+          Created regular expressions for SMS data extraction, aiding increase in extraction rates."
   side: right
 
 - name: "Risk Analyst Intern"
   image: "3.jpg"
   img-alt: "image description"
   year: "May 2020 - June 2020"
-  text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+  text: "Conducted in-depth analysis of specific trades responsible for outlier behavior in financial models and designed a metric to rank trades according to deviation, leading to a 2% reduction in risk across the portfolio. 
+        Validated, investigated and fixed discrepancies in the Ongoing Model Performance (OPM) report, to ensure the accuracy and robustness of the automated pipeline."
   side: left
 
 - name: "Master of Statistics"
   image: "4.jpg"
   img-alt: "image description"
   year: "August 2019 - July 2021"
-  text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+  text: ""
   side: right
-
-- name: "Master of Statistics"
-  image: "4.jpg"
-  img-alt: "image description"
-  year: "August 2019 - July 2021"
-  text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-  side: left
 
 - name: "Data Science Intern"
   image: "4.jpg"
   img-alt: "image description"
   year: "May 2019 - June 2021"
-  text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-  side: right
+  text: "Analyzed online card game data to create a probabilistic collusion detection algorithm, correctly identifying 83% of colluding pairs.
+        Implemented skill rating for players in online multiplayer card games using TrueSkill algorithm."
+  side: left
 
 - name: "Subject Matter Expert"
   image: "4.jpg"
   img-alt: "image description"
   year: "May 2018 - May 2020"
-  text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-  side: left
+  text: "Provided accurate and timely answers to statistical questions on Chegg’s forum, leveraging a strong academic background in Statistics. Solved approximately 500 questions over two years, ensuring clear, concise, and reliable solutions to a wide range of statistical problems."
+  side: right
 
 - name: "Bachelor of Statistics"
   image: "4.jpg"
   img-alt: "image description"
   year: "July 2016 - May 2019"
   text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-  side: right
+  side: left
