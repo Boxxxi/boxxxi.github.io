@@ -10,14 +10,14 @@
   img-alt: "image description"
   year: "August 2021 - August 2024"
   side: right
-  text:
-  - "Led the revamp of the DeviceConnect codebase, resulting in latency reduction and reduction in maintenance costs."
-  - "Developed and integrated new features for credit default modelling, including bnpl, upi, tax, investment, spend pattern and other feature cohorts."
-  - "Constructed alternative data based credit scoring models on consumer and cash loan default data. "
-  - "Proposed and assisted in developing an API solution for generation of scores that reduced deployment time by two-thirds."
-  - "Devised a new collections recommendation logic, improving client collection rates. "
-  - "Managed and automated workflows using Risk-Airflow, reducing product runtime."
-  - "Created regular expressions for SMS data extraction, aiding increase in extraction rates."
+  text:"
+  * Led the revamp of the DeviceConnect codebase, resulting in latency reduction and reduction in maintenance costs.
+  * Developed and integrated new features for credit default modelling, including bnpl, upi, tax, investment, spend pattern and other feature cohorts.
+  * Constructed alternative data based credit scoring models on consumer and cash loan default data.
+  * Proposed and assisted in developing an API solution for generation of scores that reduced deployment time by two-thirds.
+  * Devised a new collections recommendation logic, improving client collection rates.
+  * Managed and automated workflows using Risk-Airflow, reducing product runtime.
+  * Created regular expressions for SMS data extraction, aiding increase in extraction rates."
 
 - name: "Risk Analyst Intern"
   image: "3.jpg"
