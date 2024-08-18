@@ -28,7 +28,11 @@
                                 <h4 class="subheading">{{ element.name }}</h4>
                             </div>
                             <div class="timeline-body">
-                                <p class="text-muted">{{ element.text }}</p>
+                                <p class="text-muted">
+                                    <ul>
+                                        <li>{% for text in element.text %}</li>
+                                    </ul>
+                                </p>
                             </div>
                         </div>
                     </li>
