@@ -12,7 +12,7 @@
   side: right
   text:
   - Led bahah the revamp of the DeviceConnect codebase, resulting in latency reduction and reduction in maintenance costs.
-  # * Developed and integrated new features for credit default modelling, including bnpl, upi, tax, investment, spend pattern and other feature cohorts.
+  - gitDeveloped and integrated new features for credit default modelling, including bnpl, upi, tax, investment, spend pattern and other feature cohorts.
   # * Constructed alternative data based credit scoring models on consumer and cash loan default data.
   # * Proposed and assisted in developing an API solution for generation of scores that reduced deployment time by two-thirds.
   # * Devised a new collections recommendation logic, improving client collection rates.
