@@ -1,12 +1,12 @@
-- name: "Python"
-  icon: "python"
-  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+- name: "Data Science"
+  icon: "area-chart"
+  description: "Python | R | SQL | SPSS | Pandas | Numpy | Seaborn | Tensorflow | Keras | Scikit-Learn"
 
-- name: "Responsive Design"
+- name: "Software"
   icon: "laptop"
-  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+  description: "AWS | Git | Postman | Sentry | DataDog | Grafana | Docker"
 
-- name: "Web Security"
-  icon: "lock"
-  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+- name: "Documentation"
+  icon: "pencil-square-o"
+  description: "JIRA | LaTeX | Google Workspace | MS Office Suite"
 
